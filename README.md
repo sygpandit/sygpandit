@@ -1,4 +1,4 @@
-# Hey friends!
+# Hey fellow!
 
 - 🔭 I’m Suyog Pandit
 - 🌱 I am currently learning JavaScript.
