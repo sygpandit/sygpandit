@@ -5,6 +5,6 @@
 - 🤔 I’m on Twitter https://twitter.com/sygpandit
 - 📫 How to reach me: sygpandit031@gmail.com 
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: The first programmer was the daughter of a mad poet.
+- ⚡ Fun fact: I copied this README file from other GitHub repository.
 
 ![Suyog's github stats](https://github-readme-stats.vercel.app/api?username=sygpandit&show_icons=true)
