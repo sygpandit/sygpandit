@@ -5,7 +5,7 @@
 - 🤔 I’m everywhere: **@sygpandit**
 - 📫 How to reach me: **sygpandit031@gmail.com** 
 - 😄 Pronouns: he/him/his
-- <i> ⚡ Fun (Not) fact: GitHub is not open source.
+- <i> ⚡ ~~Fun~~ fact: GitHub is not open source.
 
 > <b> Find Me On:
 > <p align="left" style="padding:10px 10px 10px 10px">
