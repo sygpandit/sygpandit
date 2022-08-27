@@ -20,7 +20,7 @@
 </p>
 
 
-![Suyog's github stats](https://awesome-github-stats.azurewebsites.net/user-stats/sygpandit?cardType=octocat&theme=blueberry)
+![Suyog's github stats](https://github-readme-stats.vercel.app/api?username=sygpandit&show_icons=true&theme=blueberry)
 
 ![Suyog's Streak Status](https://github-readme-streak-stats.herokuapp.com/?user=sygpandit&theme=blueberry&layout=compact)
 
