@@ -1,5 +1,4 @@
-# Hey 👋 fellow!
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sygpandit&layout=compact&theme=blueberry"/>
+# Hey 👋 low!
 
 - 🔭 I’m working on something new.
 - 🌱 I am currently learning **JavaScript**.
