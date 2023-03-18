@@ -19,9 +19,4 @@
 
 </p>
 
-
-![Suyog's github stats](https://github-readme-stats.vercel.app/api?username=sygpandit&show_icons=true&theme=blueberry)
-
-![Suyog's Streak Status](https://github-readme-streak-stats.herokuapp.com/?user=sygpandit&theme=blueberry&layout=compact)
-
 <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=sygpandit.sygpandit" alt="Visitors Counter" />
