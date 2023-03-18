@@ -6,7 +6,7 @@
 - 🤔 I’m everywhere: **@sygpandit**
 - 📫 How to reach me: **sygpandit@gmail.com** 
 - 😄 Pronouns: he/him/his
-- <i> ⚡ ~~Fun~~ fact: GitHub is not open source. </i>
+- <i> ⚡Series/Movies suggestions: Mr. Robot, Kota Factory/Intersteller,Inception </i>
 
 
  **Find Me On:**
