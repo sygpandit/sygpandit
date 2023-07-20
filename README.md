@@ -5,7 +5,7 @@
 - 🤔 I’m everywhere: **@sygpandit**
 - 📫 How to reach me: **sygpandit@gmail.com** 
 - 😄 Pronouns: he/him/his
-- <i> ⚡Series/Movies suggestions: Mr. Robot, Kota Factory/Intersteller,Inception </i>
+- <i> :trollface: Funfact: GitHub has several custom emojis </i>
 
 
  **Find Me On:**
