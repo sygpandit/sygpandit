@@ -18,4 +18,4 @@
 
 </p>
 
-<img align="right" src="https://visitor-badge.glitch.me/badge?page_id=sygpandit.sygpandit" alt="Visitors Counter" />
+<img align="right" src="https://komarev.com/ghpvc/?username=sygpandit&color=blue&style=flat" alt="Visitors Counter" />
