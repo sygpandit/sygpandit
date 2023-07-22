@@ -3,7 +3,7 @@
 - 🔭 I’m working on something new.
 - 🌱 I am currently learning **JavaScript**.
 - 🤔 I’m everywhere: **@sygpandit**
-- 📫 How to reach me: **sygpandit@gmail.com** 
+- 📫 How to reach me: **contact@suyogpandit.com.np** 
 - 😄 Pronouns: he/him/his
 - <i> :trollface: Funfact: GitHub has several custom emojis </i>
 
