@@ -18,4 +18,4 @@
 
 </p>
 
-<img align="right" src="https://komarev.com/ghpvc/?username=sygpandit&color=blue&style=flat-square" alt="Visitors Counter" />
+<img align="right" src="https://komarev.com/ghpvc/?username=sygpandit&color=yellowgreen&style=flat-square" alt="Visitors Counter" />
