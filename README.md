@@ -1,12 +1,16 @@
-# Hey 👋 low!
+<h1 align=center>Hello👋, I am Suyog</h1>
 
-- 🔭 I’m working on something new.
+- 🔭 I’m not working :)
+  
 - 🌱 I am currently learning **JavaScript**.
+  
 - 🤔 I’m everywhere: **@sygpandit**
-- 📫 How to reach me: **contact@suyogpandit.com.np** 
+  
+- 📫 How to reach me: **contact@suyogpandit.com.np**
+  
 - 😄 Pronouns: he/him/his
+  
 - <i> :trollface: Funfact: GitHub has several custom emojis </i>
-
 
  **Find Me On:**
 > <p align="left" style="padding:10px 10px 10px 10px">
