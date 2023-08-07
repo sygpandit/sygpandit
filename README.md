@@ -22,6 +22,6 @@
 
 </p>
 
-![Snake animation] (https://github.com/sygpandit/sygpandit/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/sygpandit/sygpandit/blob/output/github-contribution-grid-snake.svg)
 
 <img align="right" src="https://komarev.com/ghpvc/?username=sygpandit&color=yellowgreen&style=flat-square" alt="Visitors Counter" />
