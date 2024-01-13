@@ -6,7 +6,7 @@
   
 - 🤔 I’m everywhere: **@sygpandit**
   
-- 📫 How to reach me: **mail@syg.com.np**
+- 📫 How to reach me: **info@sygpandit.com.np**
   
 - 😄 Pronouns: he/him/his
   
